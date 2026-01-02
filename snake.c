@@ -137,7 +137,7 @@ void Logic() {
     }
 }
 
-int main() {
+void play_snake() {
     char choice;
     int diff;
 

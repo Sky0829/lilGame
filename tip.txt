@@ -1,5 +1,5 @@
 暴力運行main.c 直接在終端機輸入
-gcc main.c member_stubs.c tetris.c -o game.exe
+gcc main.c member_stubs.c tetris.c 2048.c -o game.exe
 ./game.exe
 
 中文出現亂碼

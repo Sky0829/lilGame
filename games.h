@@ -4,6 +4,6 @@
 // Game Function Prototypes
 void play_tetris();
 void play_snake();
-void play_2048();
+void start_2048_game();
 
 #endif

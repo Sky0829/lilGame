@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include "games.h"
 
-void play_tetris() {
-    printf("\n[Status] Tetris is under development...\n");
-}
-
 void play_snake() {
     printf("\n[Status] Snake Game is under development...\n");
 }

@@ -31,7 +31,7 @@ int main() {
                 play_snake();
                 break;
             case 3:
-                play_2048();
+                start_2048_game();
                 break;
             default:
                 printf("Invalid choice, please try again.\n");

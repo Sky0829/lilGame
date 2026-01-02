@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <windows.h>
 #include "games.h"
 
 int main() {
     int choice = 0;
+    SetConsoleOutputCP(65001);
 
     while (1) {
         printf("\n==== Classic Game Collection ====\n");

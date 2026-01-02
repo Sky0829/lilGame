@@ -1,0 +1,3 @@
+暴力運行main.c 直接在終端機輸入
+gcc main.c member_stubs.c -o game.exe
+./game.exe

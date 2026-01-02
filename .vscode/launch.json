@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/北科/大一上/程式設計/last/final_project",
-      "program": "d:/北科/大一上/程式設計/last/final_project/build/Debug/outDebug",
+      "cwd": "c:/Users/User/Downloads",
+      "program": "c:/Users/User/Downloads/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
